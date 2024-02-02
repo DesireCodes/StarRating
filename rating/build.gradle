@@ -62,8 +62,8 @@ afterEvaluate {
                 from components.release
 
                 groupId='com.github.DesireCodes'
-                artifactId='ratingstar'
-                version = '1.0.0'
+                artifactId='rating'
+                version = '1.0.2'
             }
         }
     }
