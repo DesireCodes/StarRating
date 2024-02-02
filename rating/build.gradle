@@ -8,7 +8,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        minSdk 24
+        minSdk 20
         targetSdk 33
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -69,7 +69,7 @@ afterEvaluate {
 
                 groupId='com.github.DesireCodes'
                 artifactId='rating'
-                version = '1.0.3'
+                version = '1.0.5'
             }
         }
     }
